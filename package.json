@@ -1,5 +1,5 @@
 {
-  "name": "babel-hubot",
+  "name": "babel-hubozt",
   "version": "0.2.0",
   "description": "Minimalistic Hubot wrapper that allows to write scripts using power of ES 2015",
   "repository": "kossnocorp/babel-hubot",
